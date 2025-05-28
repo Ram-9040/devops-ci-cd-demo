@@ -5,7 +5,7 @@ This project demonstrates a CI/CD pipeline using Jenkins, Docker, and AWS EC2.
 ---
 
 ## 📁 Project Folder Structure
-
+```
 
 devops-ci-cd-demo/
 │
@@ -15,16 +15,17 @@ devops-ci-cd-demo/
 ├── deploy.sh                    # (Optional) Deployment script
 ├── Jenkinsfile                  # Jenkins pipeline script
 └── README.md                    # Project documentation
+```
 
 
 ---
 
 ## ⚙ Tools Used
 
-- Jenkins – CI server to automate the pipeline  
-- Docker – To build and run containerized app  
-- GitHub – Version control and code repository  
-- AWS EC2 (Amazon Linux 2) – Hosting Jenkins and Docker  
+- *Jenkins* – CI server to automate the pipeline  
+- *Docker* – To build and run containerized app
+- *GitHub* – Version control and code repository  
+- *AWS EC2 (Amazon Linux 2)* – Hosting Jenkins and Docker  
 
 ---
 
