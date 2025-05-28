@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git 
+                git 'https://github.com/Ram-9040/devops-ci-cd-demo.git'
             }
         }
 
