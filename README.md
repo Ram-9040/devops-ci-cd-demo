@@ -14,6 +14,7 @@ devops-ci-cd-demo/
 ├── deploy.sh                    # (Optional) Deployment script
 ├── Jenkinsfile                  # Jenkins pipeline script
 └── README.md                    # Project documentation
+```
 ---
 
 ## ⚙ Tools Used
